@@ -9,11 +9,11 @@
     background-color: #bbaaad;
 }
 
-.image1 {
+.top-image {
     height: 150px;
 }
 
-.header1 {
+.heading {
     height: 50px;
     text-align: center;
     background-color: #bbaaad;
@@ -56,7 +56,7 @@ p {
     margin-left: 15px;
 }
 
-.image2 {
+.left-image {
     height: 300px;
     margin-left: 15px;
 
@@ -67,7 +67,7 @@ p {
     float: left;
 }
 
-.image3 {
+.right-image {
     width: 900px;
     height: 500px;
 }
