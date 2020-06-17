@@ -26,7 +26,7 @@ h1 {
     font-size: 20px;
 }
 
-p {
+.logo {
     margin: 0px;
     font-size: 15px;
     color: #800000;
@@ -77,4 +77,35 @@ p {
     height: 30px;
     text-align: center;
     clear: both;
+}
+
+.fill {
+    margin: 0 auto;
+    padding-top: 10px;
+    background-color: #ebdfe8;
+}
+
+h2,
+h3 {
+    margin: 0px;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    text-indent: 20px;
+
+}
+
+.word {
+
+    font-size: 18px;
+    color: #8B0000;
+    font-family: Arial;
+}
+
+.about-img {
+    margin-left: 130px;
+    width: 630px;
+    height: 180px;
 }
