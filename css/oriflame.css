@@ -39,7 +39,6 @@ h1 {
     vertical-align: top;
     background-color: #bbaaad;
     float: left;
-
 }
 
 .home {
@@ -59,7 +58,6 @@ h1 {
 .left-image {
     height: 300px;
     margin-left: 15px;
-
 }
 
 .content {
@@ -94,11 +92,9 @@ h3 {
 p {
     text-align: center;
     text-indent: 20px;
-
 }
 
 .word {
-
     font-size: 18px;
     color: #8B0000;
     font-family: Arial;
@@ -108,4 +104,27 @@ p {
     margin-left: 130px;
     width: 630px;
     height: 180px;
+}
+
+.contacs-fill {
+    background-color: #ebdfe8;
+    vertical-align: top;
+}
+
+.call {
+    text-align: center;
+    color: black;
+    margin-bottom: 10px;
+    padding-top: 20px;
+    font-size: 30px;
+}
+
+.indent {
+    padding-left: 250px;
+    text-indent: 20px;
+}
+
+.review {
+    width: 250px;
+    height: 70px;
 }
