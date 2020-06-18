@@ -128,3 +128,34 @@ p {
     width: 250px;
     height: 70px;
 }
+
+.table {
+    display: table;
+    width: 800px;
+    border: 1px solid black;
+    margin-left: 280px;
+    margin-top: 30px;
+    text-indent: 5px;
+}
+
+.row {
+    display: table-row;
+    border: 1px solid black;
+}
+
+.cell {
+    display: table-cell;
+    border: 1px solid black;
+}
+
+.row:nth-child(2n) {
+    background: #f0f0f0;
+}
+
+.top,
+.bottom {
+    background: #eb6e6e !important;
+    text-align: center;
+    font-size: 20px;
+    line-height: 40px;
+}
